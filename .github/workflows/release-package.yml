@@ -1,4 +1,4 @@
-name: Trello clone package
+name: @goskan93/trello-clone-contracts
 
 on:
   release:
