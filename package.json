@@ -1,6 +1,6 @@
 {
   "name": "@goskan93/trello-clone-contracts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "trello clone project contracts",
   "publishConfig": {
     "goskan93:registry": "https://npm.pkg.github.com"
