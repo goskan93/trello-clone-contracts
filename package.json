@@ -1,11 +1,12 @@
 {
   "name": "@goskan93/trello-clone-contracts",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "trello clone project contracts",
   "types": "./dist/index.d.ts",
   "publishConfig": {
     "goskan93:registry": "https://npm.pkg.github.com"
   },
+  "files": ["dist"],
   "scripts": {
     "test": "exit 0",
     "build": "npx tsc"
